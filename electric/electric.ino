@@ -37,7 +37,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
     digitalWrite(RED_LED,HIGH);
   } else if(msg=="yellow"){
     digitalWrite(YELLOW_LED,HIGH);
-  }else if(msg=="GREEN"){
+  }else if(msg=="green"){
     digitalWrite(GREEN_LED,HIGH);
   }
   Serial.println();

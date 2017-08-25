@@ -1,5 +1,6 @@
 # electricIOT
-IOT Device for display info of current electricity price from **Spain** and turns on a led on a nodemcu esp8266 
+IOT Device for display info of current electricity price from **Spain**.
+Download/classify rates, and turns on a led on a nodemcu esp8266 depending on the price.
 
 > In Spain, electric rates are published everyday at 20h.
 

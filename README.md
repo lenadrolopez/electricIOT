@@ -24,6 +24,10 @@ Every 5 minutes, checks current time, finds current price and sends an mqtt mess
 
 * green - cheap
 
+Schema: 
+![alt text](https://github.com/lenadrolopez/electricIOT/blob/master/schema.png "Logo Title Text 1")
+
+
 ## Hardware
 
 * Rasperry Pi/linux server
